@@ -3,9 +3,7 @@
 
 [![image](https://img.shields.io/pypi/v/lab3.svg)](https://pypi.python.org/pypi/lab3-for-PyPI)
 
-
-[![image](https://pyup.io/repos/github/LazyBonesGIS/lab3/shield.svg)](https://pyup.io/repos/github/LazyBonesGIS/lab3)
-
+^This link works!^
 
 **This is a package created for lab 3.**
 
