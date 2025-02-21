@@ -15,4 +15,4 @@
 
 ## Features
 
--   TODO
+-   This package may crash your computer. It has no other real uses yet.
