@@ -12,7 +12,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://LazyBonesGIS.github.io/lab3
-    
+
 
 ## Features
 
