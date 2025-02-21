@@ -2,4 +2,4 @@
 
 __author__ = """Lazy Bones"""
 __email__ = "cbrigh16@vols.utk.edu"
-__version__ = "0.0.2"
+__version__ = "0.0.3"
